@@ -1,3 +1,5 @@
+Repository by: Lyra Joyce Versoza
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
